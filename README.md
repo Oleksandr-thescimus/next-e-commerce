@@ -5,7 +5,7 @@
 The all-in-one starter kit for high-performance e-commerce sites. With a few clicks, Next.js developers can clone, deploy and fully customize their own store.
 Start right now at [nextjs.org/commerce](https://nextjs.org/commerce)
 
-Demo live at: [demo.vercel.store](https://demo.vercel.store/)
+Demo live at: [next-e-commerce-vert.vercel.app](https://next-e-commerce-vert.vercel.app/)
 
 - Shopify Demo: https://shopify.vercel.store/
 - Swell Demo: https://swell.vercel.store/
